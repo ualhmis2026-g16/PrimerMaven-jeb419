@@ -173,8 +173,7 @@
             <plugin>
                 <groupId>org.owasp</groupId>
                 <artifactId>dependency-check-maven</artifactId>
-                <version>12.2.0</version> <configuration>
-                    <failOnError>false</failOnError> </configuration>
+                <version>12.2.0</version> 
                 <reportSets>
                     <reportSet>
                         <reports>
